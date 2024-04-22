@@ -6,25 +6,17 @@
 
 * Core Skills: Machine Learning, Deep Learning, Generative AI, LLM
 * Languages: Python, C/C++, SQL
-
 * Developer Tools: Git, AWS, Docker, Kubernetes, Kubeflow
 * Libraries: Numpy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Langchain
 
 ### EDUCATION
 
-* M.Tech in Computer Science (Data Science)                                                                                                                                                                                                                                         Oct. 2020 July 2022
-    * Indian Statistical Institute
-    * Kolkata, WB
-
-* B.Tech in Electrical Engineering                                                                                                                                                                                                                                                    Aug. 2014 May 2018
-    * National Institute of Technology
-    * Kurukshetra, HR
+* M.Tech in Computer Science (Data Science) | Indian Statistical Institute | Kolkata, WB | Oct. 2020 - July 2022                                                                                                                                                                                                                                        
+* B.Tech in Electrical Engineering | National Institute of Technology | Kurukshetra, HR | Aug. 2014 - May 2018
 
 ### EXPERIENCE
 
-* Machine Learning Engineer II                                                                                                                                                                                                                                                                                                  July 2022 Present
-    * Comcast
-    * Chennai, TN
+   **Machine Learning Engineer II | Comcast | Chennai, TN | July 2022 - Present**
 
       * AI For Connected Living Tasks focused on data from indoor and doorbell cameras
         * Developed audio signature classification model using YAMNet to classify audio from camera to certain classes such as dog bark, smoke alarm, babycry and notify Xfinity customers.
@@ -45,25 +37,20 @@
         * Implemented Kubeflow pipelines for an anamoly detection model for data processing, training, evaluation and deployment. Performed scaling and performance testing on the endpoint.
         * Implemented Single Sign-On for OIDC login on Kubeflow using Amazon Cognito.
 
-### Graduate Research                                                                                                                                                                                                                                                                  June 2021 July 2022
+   **Graduate Research | Indian Statistical Institute | Kolkata, WB | June 2021 - July 2022**
 
-* Indian Statistical Institute                                                                                                                                                                                                                                                               Kolkata, WB
+      * Developed a StyleGAN based model for image generation with wasserstein loss for style transfer task, trained it on COCO dataset, and compared to model using traditional GAN loss, under the guidance of prof. Ujjwal Bhattacharya.
+      * Developed an attention based BiLSTM for aspect-based sentiment analysis of tweets, under guidance of prof. Debapriyo.
 
-  * Developed a StyleGAN based model for image generation with wasserstein loss for style transfer task, trained it on COCO dataset, and compared to model using traditional GAN loss, under the guidance of prof. Ujjwal Bhattacharya.
-  * Developed an attention based BiLSTM for aspect-based sentiment analysis of tweets, under guidance of prof. Debapriyo.
+   **Business Analyst Intern | Kofluence | Bangalore | July 2020 - September 2020**
 
-**Business Analyst Intern** | Kofluence | Bangalore | July 2020 - September 2020
+      * Implemented ensemble classifier models on YouTube data to predict channel engagement and identify potential influencers.
+      * Implemented YouTube data scraping tool.
 
-* Implemented ensemble classifier models on YouTube data to predict channel engagement and identify potential influencers.
-* Implemented YouTube data scraping tool.
+   **Engineering Management Trainee | ITC Limited (Hotels Division) | New Delhi | Oct. 2018 - Aug 2019**
 
-**Engineering Management Trainee** | ITC Limited (Hotels Division) | New Delhi | Oct. 2018 - Aug 2019
+   **Summer Trainee | Bharat Heavy Electrical Limited | Hyderabad | June 2016 - July 2016**
 
-* [List of responsibilities and achievements mentioned but obscured in image]
-
-**Summer Trainee** | Bharat Heavy Electrical Limited | Hyderabad | June 2016 - July 2016
-
-* [List of responsibilities and achievements mentioned but obscured in image]
 
 ### Academic Achievements
 
