@@ -1,6 +1,9 @@
 ## Ganji Akhil Kumar
 
-+91-9728432989 | akhilkumarganji@outlook.com | linkedin.com/in/akhilkumar-ganji/ | github.com/ganjiakhil
+* Contact - +91-9728432989 
+* Email - akhilkumarganji@outlook.com 
+* Linkedin - https://www.linkedin.com/in/akhilkumar-ganji/ 
+* Github - https://www.github.com/ganjiakhil
 
 ### TECHNICAL SKILLS
 
@@ -56,3 +59,13 @@
 
 * Scored 97.75 percentile in GATE 2020 and stood among top 50 in ISI Admission Test.
 * Scored 98.5 percentile in JEE Mains 2014 and 99 percentile in JEE Mains 2015.
+
+### Courses/Certifications
+
+* Summer Analytics 2020 by Consulting & Analytics Club, IITGuwahati with a Kaggle Project
+* Machine Learning Course by Andrew Ng on Coursera
+* GHF Hackathon by Univ AI
+* Predictive Analytics For Business Nanodegree by Udacity
+* Alteryx Core Certification by Alteryx
+* Tableau Associate Certification by Simplilearn
+* HTML, CSS, Javascript by Coursera
