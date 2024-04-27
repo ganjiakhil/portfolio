@@ -61,11 +61,11 @@
 ### Projects
 
   **Mother’s Day tweet Sentiment Analysis .**
-    * Implemeted attention based BiLSTM to predicted sentiment of Mother’s Day Tweets as positive, neutral, negative.
-    * Achieved an accuracy of 99% compared to BiLSTM model without attention which has accuracy of 71%.
+  * Implemeted attention based BiLSTM to predicted sentiment of Mother’s Day Tweets as positive, neutral, negative.
+  * Achieved an accuracy of 99% compared to BiLSTM model without attention which has accuracy of 71%.
 
   **Image Captioning with Local Attention .**
-    * Implemeted attention based image captioning with VGG16 and LSTM as encoder with bahdanau attention and trained on Flickr8k Dataset.
+  * Implemeted attention based image captioning with VGG16 and LSTM as encoder with bahdanau attention and trained on Flickr8k Dataset.
 
 
 ### Academic Achievements
